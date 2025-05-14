@@ -28,13 +28,7 @@ To compile this program, use the following command:
 Execution Instructions:
 ------------------------
 Ensure the input file is placed correctly and accessible at the path 
-hardcoded in the program:
-
-    C:\Users\muhsm\CLionProjects\assignment_4_version7\input_file.txt
-
-Then run the compiled executable:
-
-    ./classify
+hardcoded in the program
 
 ------------------------------------------------------------------------------
 Input:
