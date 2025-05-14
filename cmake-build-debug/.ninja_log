@@ -1,0 +1,21 @@
+# ninja log v5
+0	739	7329293411952903	CMakeFiles/assignment_4_version7.dir/main.cpp.obj	c0dd883de18370da
+741	840	7329293412946479	assignment_4_version7.exe	f06bc0bbe65683ee
+3	1096	7329294002401472	CMakeFiles/assignment_4_version7.dir/main.cpp.obj	c0dd883de18370da
+1098	1294	7329294004334796	assignment_4_version7.exe	f06bc0bbe65683ee
+8	741	7329294134273967	CMakeFiles/assignment_4_version7.dir/main.cpp.obj	c0dd883de18370da
+741	885	7329294135680050	assignment_4_version7.exe	f06bc0bbe65683ee
+2	570	7329294812273116	CMakeFiles/assignment_4_version7.dir/main.cpp.obj	c0dd883de18370da
+571	667	7329294813203292	assignment_4_version7.exe	f06bc0bbe65683ee
+3	597	7329311688739689	CMakeFiles/assignment_4_version7.dir/main.cpp.obj	c0dd883de18370da
+598	720	7329311689950679	assignment_4_version7.exe	f06bc0bbe65683ee
+4	586	7329311858835424	CMakeFiles/assignment_4_version7.dir/main.cpp.obj	c0dd883de18370da
+587	686	7329311859804389	assignment_4_version7.exe	f06bc0bbe65683ee
+3	612	7329312410388911	CMakeFiles/assignment_4_version7.dir/main.cpp.obj	c0dd883de18370da
+612	736	7329312411607872	assignment_4_version7.exe	f06bc0bbe65683ee
+3	572	7329312561339745	CMakeFiles/assignment_4_version7.dir/main.cpp.obj	c0dd883de18370da
+572	677	7329312562359721	assignment_4_version7.exe	f06bc0bbe65683ee
+3	570	7329312851436774	CMakeFiles/assignment_4_version7.dir/main.cpp.obj	c0dd883de18370da
+570	665	7329312852366764	assignment_4_version7.exe	f06bc0bbe65683ee
+3	620	7329313065721532	CMakeFiles/assignment_4_version7.dir/main.cpp.obj	c0dd883de18370da
+620	726	7329313066740565	assignment_4_version7.exe	f06bc0bbe65683ee
